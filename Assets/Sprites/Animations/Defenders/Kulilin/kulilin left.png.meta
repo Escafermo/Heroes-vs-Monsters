@@ -1,0 +1,542 @@
+fileFormatVersion: 2
+guid: 8422e5db8612b35438671527ed3d02fb
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kulilin left_0
+    21300002: kulilin left_1
+    21300004: kulilin left_2
+    21300006: kulilin left_3
+    21300008: kulilin left_4
+    21300010: kulilin left_5
+    21300012: kulilin left_6
+    21300014: kulilin left_7
+    21300016: kulilin left_8
+    21300018: kulilin left_9
+    21300020: kulilin left_10
+    21300022: kulilin left_11
+    21300024: kulilin left_12
+    21300026: kulilin left_13
+    21300028: kulilin left_14
+    21300030: kulilin left_15
+    21300032: kulilin left_16
+    21300034: kulilin left_17
+    21300036: kulilin left_18
+    21300038: kulilin left_19
+    21300040: kulilin left_20
+    21300042: kulilin left_21
+    21300044: kulilin left_22
+    21300046: kulilin left_23
+    21300048: kulilin left_24
+    21300050: kulilin left_25
+    21300052: kulilin left_26
+    21300054: kulilin left_27
+    21300056: kulilin left_28
+    21300058: kulilin left_29
+    21300060: kulilin left_30
+    21300062: kulilin left_31
+    21300064: kulilin left_32
+    21300066: kulilin left_33
+    21300068: kulilin left_34
+    21300070: kulilin left_35
+    21300072: kulilin left_36
+    21300074: kulilin left_37
+    21300076: kulilin left_38
+    21300078: kulilin left_39
+    21300080: kulilin left_40
+    21300082: kulilin left_41
+    21300084: kulilin left_42
+    21300086: kulilin left_43
+    21300088: kulilin left_44
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: kulilin left_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 367
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 367
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 367
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_3
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 367
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 367
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_5
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 367
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 367
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_7
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 367
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_8
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 367
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_9
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 367
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_11
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 251
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_12
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 251
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 251
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 251
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_15
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 251
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_16
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 251
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_17
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 251
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_18
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 251
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_19
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 251
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 181
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_21
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 181
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_22
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 181
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_23
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 181
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_24
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 181
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_25
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 181
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_26
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 181
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_27
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 181
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_28
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 181
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_29
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 181
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_30
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 181
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_32
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 65
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_33
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 65
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_34
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 65
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_35
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 65
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_36
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 65
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_37
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 65
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_38
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 65
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_39
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 65
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_40
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 65
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_41
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 110
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_42
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_43
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin left_44
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

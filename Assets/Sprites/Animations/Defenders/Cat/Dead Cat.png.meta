@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 14ee8a8fb65b81949947da5a5469729d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Dead Cat_0
+    21300002: Dead Cat_1
+    21300004: Dead Cat_2
+    21300006: Dead Cat_3
+    21300008: Dead Cat_4
+    21300010: Dead Cat_5
+    21300012: Dead Cat_6
+    21300014: Dead Cat_7
+    21300016: Dead Cat_8
+    21300018: Dead Cat_9
+    21300020: Dead Cat_10
+    21300022: Dead Cat_11
+    21300024: Dead Cat_12
+    21300026: Dead Cat_13
+    21300028: Dead Cat_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Dead Cat_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1844
+        width: 149
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dead Cat_1
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1840
+        width: 167
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dead Cat_2
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1837
+        width: 171
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dead Cat_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1593
+        width: 161
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dead Cat_4
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1592
+        width: 162
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dead Cat_5
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1592
+        width: 174
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dead Cat_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1345
+        width: 183
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dead Cat_7
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1339
+        width: 186
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dead Cat_8
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1331
+        width: 184
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dead Cat_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1082
+        width: 185
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dead Cat_10
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1079
+        width: 182
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dead Cat_11
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1079
+        width: 182
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dead Cat_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 837
+        width: 182
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dead Cat_13
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 837
+        width: 182
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dead Cat_14
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 837
+        width: 182
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

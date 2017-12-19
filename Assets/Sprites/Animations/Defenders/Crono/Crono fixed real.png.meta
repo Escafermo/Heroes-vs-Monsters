@@ -1,0 +1,2742 @@
+fileFormatVersion: 2
+guid: 5e100b0501ea7c84fb947f0b136d32cf
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Crono fixed real_0
+    21300002: Crono fixed real_1
+    21300004: Crono fixed real_2
+    21300006: Crono fixed real_3
+    21300008: Crono fixed real_4
+    21300010: Crono fixed real_5
+    21300012: Crono fixed real_6
+    21300014: Crono fixed real_7
+    21300016: Crono fixed real_8
+    21300018: Crono fixed real_9
+    21300020: Crono fixed real_10
+    21300022: Crono fixed real_11
+    21300024: Crono fixed real_12
+    21300026: Crono fixed real_13
+    21300028: Crono fixed real_14
+    21300030: Crono fixed real_15
+    21300032: Crono fixed real_16
+    21300034: Crono fixed real_17
+    21300036: Crono fixed real_18
+    21300038: Crono fixed real_19
+    21300040: Crono fixed real_20
+    21300042: Crono fixed real_21
+    21300044: Crono fixed real_22
+    21300046: Crono fixed real_23
+    21300048: Crono fixed real_24
+    21300050: Crono fixed real_25
+    21300052: Crono fixed real_26
+    21300054: Crono fixed real_27
+    21300056: Crono fixed real_28
+    21300058: Crono fixed real_29
+    21300060: Crono fixed real_30
+    21300062: Crono fixed real_31
+    21300064: Crono fixed real_32
+    21300066: Crono fixed real_33
+    21300068: Crono fixed real_34
+    21300070: Crono fixed real_35
+    21300072: Crono fixed real_36
+    21300074: Crono fixed real_37
+    21300076: Crono fixed real_38
+    21300078: Crono fixed real_39
+    21300080: Crono fixed real_40
+    21300082: Crono fixed real_41
+    21300084: Crono fixed real_42
+    21300086: Crono fixed real_43
+    21300088: Crono fixed real_44
+    21300090: Crono fixed real_45
+    21300092: Crono fixed real_46
+    21300094: Crono fixed real_47
+    21300096: Crono fixed real_48
+    21300098: Crono fixed real_49
+    21300100: Crono fixed real_50
+    21300102: Crono fixed real_51
+    21300104: Crono fixed real_52
+    21300106: Crono fixed real_53
+    21300108: Crono fixed real_54
+    21300110: Crono fixed real_55
+    21300112: Crono fixed real_56
+    21300114: Crono fixed real_57
+    21300116: Crono fixed real_58
+    21300118: Crono fixed real_59
+    21300120: Crono fixed real_60
+    21300122: Crono fixed real_61
+    21300124: Crono fixed real_62
+    21300126: Crono fixed real_63
+    21300128: Crono fixed real_64
+    21300130: Crono fixed real_65
+    21300132: Crono fixed real_66
+    21300134: Crono fixed real_67
+    21300136: Crono fixed real_68
+    21300138: Crono fixed real_69
+    21300140: Crono fixed real_70
+    21300142: Crono fixed real_71
+    21300144: Crono fixed real_72
+    21300146: Crono fixed real_73
+    21300148: Crono fixed real_74
+    21300150: Crono fixed real_75
+    21300152: Crono fixed real_76
+    21300154: Crono fixed real_77
+    21300156: Crono fixed real_78
+    21300158: Crono fixed real_79
+    21300160: Crono fixed real_80
+    21300162: Crono fixed real_81
+    21300164: Crono fixed real_82
+    21300166: Crono fixed real_83
+    21300168: Crono fixed real_84
+    21300170: Crono fixed real_85
+    21300172: Crono fixed real_86
+    21300174: Crono fixed real_87
+    21300176: Crono fixed real_88
+    21300178: Crono fixed real_89
+    21300180: Crono fixed real_90
+    21300182: Crono fixed real_91
+    21300184: Crono fixed real_92
+    21300186: Crono fixed real_93
+    21300188: Crono fixed real_94
+    21300190: Crono fixed real_95
+    21300192: Crono fixed real_96
+    21300194: Crono fixed real_97
+    21300196: Crono fixed real_98
+    21300198: Crono fixed real_99
+    21300200: Crono fixed real_100
+    21300202: Crono fixed real_101
+    21300204: Crono fixed real_102
+    21300206: Crono fixed real_103
+    21300208: Crono fixed real_104
+    21300210: Crono fixed real_105
+    21300212: Crono fixed real_106
+    21300214: Crono fixed real_107
+    21300216: Crono fixed real_108
+    21300218: Crono fixed real_109
+    21300220: Crono fixed real_110
+    21300222: Crono fixed real_111
+    21300224: Crono fixed real_112
+    21300226: Crono fixed real_113
+    21300228: Crono fixed real_114
+    21300230: Crono fixed real_115
+    21300232: Crono fixed real_116
+    21300234: Crono fixed real_117
+    21300236: Crono fixed real_118
+    21300238: Crono fixed real_119
+    21300240: Crono fixed real_120
+    21300242: Crono fixed real_121
+    21300244: Crono fixed real_122
+    21300246: Crono fixed real_123
+    21300248: Crono fixed real_124
+    21300250: Crono fixed real_125
+    21300252: Crono fixed real_126
+    21300254: Crono fixed real_127
+    21300256: Crono fixed real_128
+    21300258: Crono fixed real_129
+    21300260: Crono fixed real_130
+    21300262: Crono fixed real_131
+    21300264: Crono fixed real_132
+    21300266: Crono fixed real_133
+    21300268: Crono fixed real_134
+    21300270: Crono fixed real_135
+    21300272: Crono fixed real_136
+    21300274: Crono fixed real_137
+    21300276: Crono fixed real_138
+    21300278: Crono fixed real_139
+    21300280: Crono fixed real_140
+    21300282: Crono fixed real_141
+    21300284: Crono fixed real_142
+    21300286: Crono fixed real_143
+    21300288: Crono fixed real_144
+    21300290: Crono fixed real_145
+    21300292: Crono fixed real_146
+    21300294: Crono fixed real_147
+    21300296: Crono fixed real_148
+    21300298: Crono fixed real_149
+    21300300: Crono fixed real_150
+    21300302: Crono fixed real_151
+    21300304: Crono fixed real_152
+    21300306: Crono fixed real_153
+    21300308: Crono fixed real_154
+    21300310: Crono fixed real_155
+    21300312: Crono fixed real_156
+    21300314: Crono fixed real_157
+    21300316: Crono fixed real_158
+    21300318: Crono fixed real_159
+    21300320: Crono fixed real_160
+    21300322: Crono fixed real_161
+    21300324: Crono fixed real_162
+    21300326: Crono fixed real_163
+    21300328: Crono fixed real_164
+    21300330: Crono fixed real_165
+    21300332: Crono fixed real_166
+    21300334: Crono fixed real_167
+    21300336: Crono fixed real_168
+    21300338: Crono fixed real_169
+    21300340: Crono fixed real_170
+    21300342: Crono fixed real_171
+    21300344: Crono fixed real_172
+    21300346: Crono fixed real_173
+    21300348: Crono fixed real_174
+    21300350: Crono fixed real_175
+    21300352: Crono fixed real_176
+    21300354: Crono fixed real_177
+    21300356: Crono fixed real_178
+    21300358: Crono fixed real_179
+    21300360: Crono fixed real_180
+    21300362: Crono fixed real_181
+    21300364: Crono fixed real_182
+    21300366: Crono fixed real_183
+    21300368: Crono fixed real_184
+    21300370: Crono fixed real_185
+    21300372: Crono fixed real_186
+    21300374: Crono fixed real_187
+    21300376: Crono fixed real_188
+    21300378: Crono fixed real_189
+    21300380: Crono fixed real_190
+    21300382: Crono fixed real_191
+    21300384: Crono fixed real_192
+    21300386: Crono fixed real_193
+    21300388: Crono fixed real_194
+    21300390: Crono fixed real_195
+    21300392: Crono fixed real_196
+    21300394: Crono fixed real_197
+    21300396: Crono fixed real_198
+    21300398: Crono fixed real_199
+    21300400: Crono fixed real_200
+    21300402: Crono fixed real_201
+    21300404: Crono fixed real_202
+    21300406: Crono fixed real_203
+    21300408: Crono fixed real_204
+    21300410: Crono fixed real_205
+    21300412: Crono fixed real_206
+    21300414: Crono fixed real_207
+    21300416: Crono fixed real_208
+    21300418: Crono fixed real_209
+    21300420: Crono fixed real_210
+    21300422: Crono fixed real_211
+    21300424: Crono fixed real_212
+    21300426: Crono fixed real_213
+    21300428: Crono fixed real_214
+    21300430: Crono fixed real_215
+    21300432: Crono fixed real_216
+    21300434: Crono fixed real_217
+    21300436: Crono fixed real_218
+    21300438: Crono fixed real_219
+    21300440: Crono fixed real_220
+    21300442: Crono fixed real_221
+    21300444: Crono fixed real_222
+    21300446: Crono fixed real_223
+    21300448: Crono fixed real_224
+    21300450: Crono fixed real_225
+    21300452: Crono fixed real_226
+    21300454: Crono fixed real_227
+    21300456: Crono fixed real_228
+    21300458: Crono fixed real_229
+    21300460: Crono fixed real_230
+    21300462: Crono fixed real_231
+    21300464: Crono fixed real_232
+    21300466: Crono fixed real_233
+    21300468: Crono fixed real_234
+    21300470: Crono fixed real_235
+    21300472: Crono fixed real_236
+    21300474: Crono fixed real_237
+    21300476: Crono fixed real_238
+    21300478: Crono fixed real_239
+    21300480: Crono fixed real_240
+    21300482: Crono fixed real_241
+    21300484: Crono fixed real_242
+    21300486: Crono fixed real_243
+    21300488: Crono fixed real_244
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Crono fixed real_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 917
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 917
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 917
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 917
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 917
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_5
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 917
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_6
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 917
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 917
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_8
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 917
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_9
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 917
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_10
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 917
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_11
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 917
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 917
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_13
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 917
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_14
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 917
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_15
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 917
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_16
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 917
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_17
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 917
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 865
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 865
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_20
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 865
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_21
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 865
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_22
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 865
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_23
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 865
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_24
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 865
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_25
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 865
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_26
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 865
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_27
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 865
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_28
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 865
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_29
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 865
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_30
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 865
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_31
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 865
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_32
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 865
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_33
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 820
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_34
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 820
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_35
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 820
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_36
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 820
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_37
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 820
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_38
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 820
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_39
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 820
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_40
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 820
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 820
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_42
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 820
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_43
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 820
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_44
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 820
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_45
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 767
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_46
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 767
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 767
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_48
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 767
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_49
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 729
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_50
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 729
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 729
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_52
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 729
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_53
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 729
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_54
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 729
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_55
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 729
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_56
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 729
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_57
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 729
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_58
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 729
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_59
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 729
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_60
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 729
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_61
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 729
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_62
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 693
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_63
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 693
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_64
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 693
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_65
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 693
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_66
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 693
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_67
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 693
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_68
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 693
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_69
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 693
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_70
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 693
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_71
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 693
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_72
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 693
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_73
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 693
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_74
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 659
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_75
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 659
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_76
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 659
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_77
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 659
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_78
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 659
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_79
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 659
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_80
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 659
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_81
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 659
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_82
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 618
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_83
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 618
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_84
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 618
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_85
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 618
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_86
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 618
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_87
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 618
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_88
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 618
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_89
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 618
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_90
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 618
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_91
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 618
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_92
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 570
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_93
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 583
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_94
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 583
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_95
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 583
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_96
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 583
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_97
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 583
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_98
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 583
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_99
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 570
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_100
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 531
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_101
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 530
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_102
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 531
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_103
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 531
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_104
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 531
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_105
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 531
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_106
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 531
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_107
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 531
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_108
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 531
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_109
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 531
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_110
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 530
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_111
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 531
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_112
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 495
+        width: 56
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_113
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 495
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_114
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 495
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_115
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 495
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_116
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 495
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_117
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 495
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_118
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 495
+        width: 56
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_119
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 457
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_120
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 457
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_121
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 457
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_122
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 457
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_123
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 457
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_124
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 457
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_125
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 457
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_126
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 457
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_127
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 421
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_128
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 421
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_129
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 421
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_130
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 421
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_131
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 421
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_132
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 421
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_133
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 421
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_134
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 420
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_135
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 420
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_136
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 420
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_137
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 420
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_138
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 420
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_139
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 420
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_140
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 421
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_141
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 382
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_142
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 382
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_143
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 382
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_144
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 382
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_145
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 382
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_146
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 382
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_147
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 336
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_148
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 336
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_149
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 336
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_150
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 336
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_151
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 336
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_152
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 336
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_153
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 336
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_154
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 336
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_155
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 336
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_156
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 336
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_157
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 336
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_158
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 336
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_159
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 336
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_160
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 304
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_161
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 304
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_162
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 304
+        width: 56
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_163
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 304
+        width: 56
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_164
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 304
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_165
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 304
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_166
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 267
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_167
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 267
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_168
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 267
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_169
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 267
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_170
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 267
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_171
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 267
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_172
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 267
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_173
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 267
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_174
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 267
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_175
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 267
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_176
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 267
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_177
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 267
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_178
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 267
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_179
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 267
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_180
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 227
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_181
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 227
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_182
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 227
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_183
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 227
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_184
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 227
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_185
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 227
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_186
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 227
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_187
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 227
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_188
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 227
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_189
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 171
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_190
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 177
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_191
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 177
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_192
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 177
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_193
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 177
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_194
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 177
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_195
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 177
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_196
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 177
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_197
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 169
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_198
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 169
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_199
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 177
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_200
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 125
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_201
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 125
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_202
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 125
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_203
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 125
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_204
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 117
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_205
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 125
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_206
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 125
+        width: 14
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_207
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 125
+        width: 14
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_208
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 125
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_209
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 125
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_210
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 125
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_211
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 125
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_212
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 125
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_213
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 80
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_214
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 80
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_215
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_216
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 80
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_217
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 80
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_218
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 80
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_219
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 80
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_220
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 80
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_221
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 80
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_222
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 80
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_223
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 80
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_224
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 80
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_225
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 41
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_226
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 41
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_227
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 41
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_228
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 41
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_229
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 41
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_230
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 41
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_231
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 41
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_232
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 41
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_233
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 41
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_234
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 41
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_235
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 41
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_236
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 41
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_237
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 41
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_238
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 4
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_239
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 4
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_240
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 24
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_241
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 6
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_242
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 24
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_243
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 4
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crono fixed real_244
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 4
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

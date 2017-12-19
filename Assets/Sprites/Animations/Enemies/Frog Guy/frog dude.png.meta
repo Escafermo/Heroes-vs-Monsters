@@ -1,0 +1,575 @@
+fileFormatVersion: 2
+guid: 8bebc427cda28784ba986098f13c0dc3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: frog dude_0
+    21300002: frog dude_1
+    21300004: frog dude_2
+    21300006: frog dude_3
+    21300008: frog dude_4
+    21300010: frog dude_5
+    21300012: frog dude_6
+    21300014: frog dude_7
+    21300016: frog dude_8
+    21300018: frog dude_9
+    21300020: frog dude_10
+    21300022: frog dude_11
+    21300024: frog dude_12
+    21300026: frog dude_13
+    21300028: frog dude_14
+    21300030: frog dude_15
+    21300032: frog dude_16
+    21300034: frog dude_17
+    21300036: frog dude_18
+    21300038: frog dude_19
+    21300040: frog dude_20
+    21300042: frog dude_21
+    21300044: frog dude_22
+    21300046: frog dude_23
+    21300048: frog dude_24
+    21300050: frog dude_25
+    21300052: frog dude_26
+    21300054: frog dude_27
+    21300056: frog dude_28
+    21300058: frog dude_29
+    21300060: frog dude_30
+    21300062: frog dude_31
+    21300064: frog dude_32
+    21300066: frog dude_33
+    21300068: frog dude_34
+    21300070: frog dude_35
+    21300072: frog dude_36
+    21300074: frog dude_37
+    21300076: frog dude_38
+    21300078: frog dude_39
+    21300080: frog dude_40
+    21300082: frog dude_41
+    21300084: frog dude_42
+    21300086: frog dude_43
+    21300088: frog dude_44
+    21300090: frog dude_45
+    21300092: frog dude_46
+    21300094: frog dude_47
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: frog dude_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1080
+        width: 125
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1080
+        width: 125
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_2
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1080
+        width: 125
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_3
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1080
+        width: 125
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_4
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1081
+        width: 136
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_5
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1080
+        width: 149
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_6
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1080
+        width: 147
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_7
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1080
+        width: 130
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_8
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1080
+        width: 122
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_9
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1080
+        width: 122
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_10
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1080
+        width: 122
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_11
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 1079
+        width: 122
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 720
+        width: 125
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_13
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 720
+        width: 125
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_14
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 720
+        width: 125
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_15
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 720
+        width: 125
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_16
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 721
+        width: 136
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_17
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 720
+        width: 150
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_18
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 720
+        width: 147
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_19
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 720
+        width: 130
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_20
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 720
+        width: 122
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_21
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 720
+        width: 122
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_22
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 720
+        width: 122
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_23
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 719
+        width: 122
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 359
+        width: 133
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_25
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 359
+        width: 133
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_26
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 359
+        width: 133
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_27
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 359
+        width: 133
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_28
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 359
+        width: 133
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_29
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 360
+        width: 134
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_30
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 360
+        width: 134
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_31
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 359
+        width: 134
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_32
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 359
+        width: 133
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_33
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 359
+        width: 134
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_34
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 359
+        width: 134
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_35
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 360
+        width: 134
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_36
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 135
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_37
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 0
+        width: 135
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_38
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 0
+        width: 135
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_39
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 0
+        width: 136
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_40
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 0
+        width: 136
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_41
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 0
+        width: 137
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_42
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 0
+        width: 137
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_43
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 0
+        width: 137
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_44
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 0
+        width: 135
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_45
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 0
+        width: 135
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_46
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 0
+        width: 136
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: frog dude_47
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 0
+        width: 136
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

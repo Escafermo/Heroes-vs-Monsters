@@ -1,0 +1,2005 @@
+fileFormatVersion: 2
+guid: ba1d6a5fbad342b42928a9fc8ba94fd0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: formalWomanSpriteSheet_0
+    21300002: formalWomanSpriteSheet_1
+    21300004: formalWomanSpriteSheet_2
+    21300006: formalWomanSpriteSheet_3
+    21300008: formalWomanSpriteSheet_4
+    21300010: formalWomanSpriteSheet_5
+    21300012: formalWomanSpriteSheet_6
+    21300014: formalWomanSpriteSheet_7
+    21300016: formalWomanSpriteSheet_8
+    21300018: formalWomanSpriteSheet_9
+    21300020: formalWomanSpriteSheet_10
+    21300022: formalWomanSpriteSheet_11
+    21300024: formalWomanSpriteSheet_12
+    21300026: formalWomanSpriteSheet_13
+    21300028: formalWomanSpriteSheet_14
+    21300030: formalWomanSpriteSheet_15
+    21300032: formalWomanSpriteSheet_16
+    21300034: formalWomanSpriteSheet_17
+    21300036: formalWomanSpriteSheet_18
+    21300038: formalWomanSpriteSheet_19
+    21300040: formalWomanSpriteSheet_20
+    21300042: formalWomanSpriteSheet_21
+    21300044: formalWomanSpriteSheet_22
+    21300046: formalWomanSpriteSheet_23
+    21300048: formalWomanSpriteSheet_24
+    21300050: formalWomanSpriteSheet_25
+    21300052: formalWomanSpriteSheet_26
+    21300054: formalWomanSpriteSheet_27
+    21300056: formalWomanSpriteSheet_28
+    21300058: formalWomanSpriteSheet_29
+    21300060: formalWomanSpriteSheet_30
+    21300062: formalWomanSpriteSheet_31
+    21300064: formalWomanSpriteSheet_32
+    21300066: formalWomanSpriteSheet_33
+    21300068: formalWomanSpriteSheet_34
+    21300070: formalWomanSpriteSheet_35
+    21300072: formalWomanSpriteSheet_36
+    21300074: formalWomanSpriteSheet_37
+    21300076: formalWomanSpriteSheet_38
+    21300078: formalWomanSpriteSheet_39
+    21300080: formalWomanSpriteSheet_40
+    21300082: formalWomanSpriteSheet_41
+    21300084: formalWomanSpriteSheet_42
+    21300086: formalWomanSpriteSheet_43
+    21300088: formalWomanSpriteSheet_44
+    21300090: formalWomanSpriteSheet_45
+    21300092: formalWomanSpriteSheet_46
+    21300094: formalWomanSpriteSheet_47
+    21300096: formalWomanSpriteSheet_48
+    21300098: formalWomanSpriteSheet_49
+    21300100: formalWomanSpriteSheet_50
+    21300102: formalWomanSpriteSheet_51
+    21300104: formalWomanSpriteSheet_52
+    21300106: formalWomanSpriteSheet_53
+    21300108: formalWomanSpriteSheet_54
+    21300110: formalWomanSpriteSheet_55
+    21300112: formalWomanSpriteSheet_56
+    21300114: formalWomanSpriteSheet_57
+    21300116: formalWomanSpriteSheet_58
+    21300118: formalWomanSpriteSheet_59
+    21300120: formalWomanSpriteSheet_60
+    21300122: formalWomanSpriteSheet_61
+    21300124: formalWomanSpriteSheet_62
+    21300126: formalWomanSpriteSheet_63
+    21300128: formalWomanSpriteSheet_64
+    21300130: formalWomanSpriteSheet_65
+    21300132: formalWomanSpriteSheet_66
+    21300134: formalWomanSpriteSheet_67
+    21300136: formalWomanSpriteSheet_68
+    21300138: formalWomanSpriteSheet_69
+    21300140: formalWomanSpriteSheet_70
+    21300142: formalWomanSpriteSheet_71
+    21300144: formalWomanSpriteSheet_72
+    21300146: formalWomanSpriteSheet_73
+    21300148: formalWomanSpriteSheet_74
+    21300150: formalWomanSpriteSheet_75
+    21300152: formalWomanSpriteSheet_76
+    21300154: formalWomanSpriteSheet_77
+    21300156: formalWomanSpriteSheet_78
+    21300158: formalWomanSpriteSheet_79
+    21300160: formalWomanSpriteSheet_80
+    21300162: formalWomanSpriteSheet_81
+    21300164: formalWomanSpriteSheet_82
+    21300166: formalWomanSpriteSheet_83
+    21300168: formalWomanSpriteSheet_84
+    21300170: formalWomanSpriteSheet_85
+    21300172: formalWomanSpriteSheet_86
+    21300174: formalWomanSpriteSheet_87
+    21300176: formalWomanSpriteSheet_88
+    21300178: formalWomanSpriteSheet_89
+    21300180: formalWomanSpriteSheet_90
+    21300182: formalWomanSpriteSheet_91
+    21300184: formalWomanSpriteSheet_92
+    21300186: formalWomanSpriteSheet_93
+    21300188: formalWomanSpriteSheet_94
+    21300190: formalWomanSpriteSheet_95
+    21300192: formalWomanSpriteSheet_96
+    21300194: formalWomanSpriteSheet_97
+    21300196: formalWomanSpriteSheet_98
+    21300198: formalWomanSpriteSheet_99
+    21300200: formalWomanSpriteSheet_100
+    21300202: formalWomanSpriteSheet_101
+    21300204: formalWomanSpriteSheet_102
+    21300206: formalWomanSpriteSheet_103
+    21300208: formalWomanSpriteSheet_104
+    21300210: formalWomanSpriteSheet_105
+    21300212: formalWomanSpriteSheet_106
+    21300214: formalWomanSpriteSheet_107
+    21300216: formalWomanSpriteSheet_108
+    21300218: formalWomanSpriteSheet_109
+    21300220: formalWomanSpriteSheet_110
+    21300222: formalWomanSpriteSheet_111
+    21300224: formalWomanSpriteSheet_112
+    21300226: formalWomanSpriteSheet_113
+    21300228: formalWomanSpriteSheet_114
+    21300230: formalWomanSpriteSheet_115
+    21300232: formalWomanSpriteSheet_116
+    21300234: formalWomanSpriteSheet_117
+    21300236: formalWomanSpriteSheet_118
+    21300238: formalWomanSpriteSheet_119
+    21300240: formalWomanSpriteSheet_120
+    21300242: formalWomanSpriteSheet_121
+    21300244: formalWomanSpriteSheet_122
+    21300246: formalWomanSpriteSheet_123
+    21300248: formalWomanSpriteSheet_124
+    21300250: formalWomanSpriteSheet_125
+    21300252: formalWomanSpriteSheet_126
+    21300254: formalWomanSpriteSheet_127
+    21300256: formalWomanSpriteSheet_128
+    21300258: formalWomanSpriteSheet_129
+    21300260: formalWomanSpriteSheet_130
+    21300262: formalWomanSpriteSheet_131
+    21300264: formalWomanSpriteSheet_132
+    21300266: formalWomanSpriteSheet_133
+    21300268: formalWomanSpriteSheet_134
+    21300270: formalWomanSpriteSheet_135
+    21300272: formalWomanSpriteSheet_136
+    21300274: formalWomanSpriteSheet_137
+    21300276: formalWomanSpriteSheet_138
+    21300278: formalWomanSpriteSheet_139
+    21300280: formalWomanSpriteSheet_140
+    21300282: formalWomanSpriteSheet_141
+    21300284: formalWomanSpriteSheet_142
+    21300286: formalWomanSpriteSheet_143
+    21300288: formalWomanSpriteSheet_144
+    21300290: formalWomanSpriteSheet_145
+    21300292: formalWomanSpriteSheet_146
+    21300294: formalWomanSpriteSheet_147
+    21300296: formalWomanSpriteSheet_148
+    21300298: formalWomanSpriteSheet_149
+    21300300: formalWomanSpriteSheet_150
+    21300302: formalWomanSpriteSheet_151
+    21300304: formalWomanSpriteSheet_152
+    21300306: formalWomanSpriteSheet_153
+    21300308: formalWomanSpriteSheet_154
+    21300310: formalWomanSpriteSheet_155
+    21300312: formalWomanSpriteSheet_156
+    21300314: formalWomanSpriteSheet_157
+    21300316: formalWomanSpriteSheet_158
+    21300318: formalWomanSpriteSheet_159
+    21300320: formalWomanSpriteSheet_160
+    21300322: formalWomanSpriteSheet_161
+    21300324: formalWomanSpriteSheet_162
+    21300326: formalWomanSpriteSheet_163
+    21300328: formalWomanSpriteSheet_164
+    21300330: formalWomanSpriteSheet_165
+    21300332: formalWomanSpriteSheet_166
+    21300334: formalWomanSpriteSheet_167
+    21300336: formalWomanSpriteSheet_168
+    21300338: formalWomanSpriteSheet_169
+    21300340: formalWomanSpriteSheet_170
+    21300342: formalWomanSpriteSheet_171
+    21300344: formalWomanSpriteSheet_172
+    21300346: formalWomanSpriteSheet_173
+    21300348: formalWomanSpriteSheet_174
+    21300350: formalWomanSpriteSheet_175
+    21300352: formalWomanSpriteSheet_176
+    21300354: formalWomanSpriteSheet_177
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 160
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: formalWomanSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1280
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1280
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1280
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1280
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1280
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1280
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1280
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1216
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1216
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1216
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1216
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1216
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1216
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1216
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1152
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1152
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1152
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1152
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1152
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1152
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1152
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1087
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1087
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1087
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1087
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1087
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1087
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1087
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1023
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1023
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1023
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1023
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1023
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1023
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1023
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1023
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 960
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 960
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 960
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 960
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 960
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 960
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 960
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 960
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 896
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 896
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 896
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 896
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 894
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 894
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 894
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 896
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 831
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 831
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 831
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 831
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 831
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 831
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 831
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 831
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 768
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 768
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 768
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 767
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 768
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 768
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 768
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 767
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 768
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 704
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 704
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 704
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 705
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 704
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 703
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 703
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 704
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 704
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 640
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 640
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 640
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 639
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 640
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 640
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 640
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 639
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 640
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 576
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 576
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 576
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 577
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 576
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 574
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 574
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 576
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 576
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 511
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 511
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 511
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 513
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 513
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 513
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 448
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 447
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 447
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_105
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 448
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_106
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 448
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_107
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 448
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_108
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 384
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_109
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 383
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_110
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 383
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_111
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 384
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_112
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 384
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_113
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 384
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_114
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 320
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_115
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 318
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_116
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 318
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_117
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 320
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_118
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 320
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_119
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 320
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_120
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 255
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_121
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 255
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_122
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 255
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_123
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 255
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_124
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 255
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_125
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 255
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_126
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 255
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_127
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 255
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_128
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 255
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_129
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 255
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_130
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 255
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_131
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 255
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_132
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 255
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_133
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 192
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_134
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 192
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_135
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 192
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_136
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 192
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_137
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 192
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_138
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 192
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_139
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 192
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_140
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 192
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_141
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 192
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_142
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 192
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_143
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 192
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_144
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 192
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_145
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 192
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_146
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_147
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 128
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_148
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 128
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_149
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 128
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_150
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 128
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_151
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 128
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_152
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 128
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_153
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 128
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_154
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 128
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_155
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 128
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_156
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 128
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_157
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 128
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_158
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 128
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_159
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 64
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_160
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 64
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_161
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_162
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 64
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_163
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 64
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_164
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 64
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_165
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 64
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_166
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 64
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_167
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 64
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_168
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 64
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_169
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 64
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_170
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 64
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_171
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 64
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_172
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_173
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_174
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_175
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_176
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: formalWomanSpriteSheet_177
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

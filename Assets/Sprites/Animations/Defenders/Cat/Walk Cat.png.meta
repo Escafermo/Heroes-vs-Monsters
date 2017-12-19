@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: 4895b49c0018831469c2a119292126d2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Walk Cat_0
+    21300002: Walk Cat_1
+    21300004: Walk Cat_2
+    21300006: Walk Cat_3
+    21300008: Walk Cat_4
+    21300010: Walk Cat_5
+    21300012: Walk Cat_6
+    21300014: Walk Cat_7
+    21300016: Walk Cat_8
+    21300018: Walk Cat_9
+    21300020: Walk Cat_10
+    21300022: Walk Cat_11
+    21300024: Walk Cat_12
+    21300026: Walk Cat_13
+    21300028: Walk Cat_14
+    21300030: Walk Cat_15
+    21300032: Walk Cat_16
+    21300034: Walk Cat_17
+    21300036: Walk Cat_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Walk Cat_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 820
+        width: 149
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk Cat_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 820
+        width: 151
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk Cat_2
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 820
+        width: 153
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk Cat_3
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 819
+        width: 155
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk Cat_4
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 819
+        width: 158
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk Cat_5
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 819
+        width: 156
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk Cat_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 612
+        width: 154
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk Cat_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 613
+        width: 152
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk Cat_8
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 613
+        width: 151
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk Cat_9
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 613
+        width: 149
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk Cat_10
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 613
+        width: 141
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk Cat_11
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 612
+        width: 132
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk Cat_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 405
+        width: 130
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk Cat_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 404
+        width: 128
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk Cat_14
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 404
+        width: 126
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk Cat_15
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 404
+        width: 128
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk Cat_16
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 405
+        width: 130
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk Cat_17
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 405
+        width: 132
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk Cat_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 199
+        width: 141
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

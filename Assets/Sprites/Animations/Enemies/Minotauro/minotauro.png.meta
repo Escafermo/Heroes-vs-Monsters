@@ -1,0 +1,1488 @@
+fileFormatVersion: 2
+guid: 39e2e2bee2f2eec4c9862aa8e7362cf4
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: minotauro_0
+    21300002: minotauro_1
+    21300004: minotauro_2
+    21300006: minotauro_3
+    21300008: minotauro_4
+    21300010: minotauro_5
+    21300012: minotauro_6
+    21300014: minotauro_7
+    21300016: minotauro_8
+    21300018: minotauro_9
+    21300020: minotauro_10
+    21300022: minotauro_11
+    21300024: minotauro_12
+    21300026: minotauro_13
+    21300028: minotauro_14
+    21300030: minotauro_15
+    21300032: minotauro_16
+    21300034: minotauro_17
+    21300036: minotauro_18
+    21300038: minotauro_19
+    21300040: minotauro_20
+    21300042: minotauro_21
+    21300044: minotauro_22
+    21300046: minotauro_23
+    21300048: minotauro_24
+    21300050: minotauro_25
+    21300052: minotauro_26
+    21300054: minotauro_27
+    21300056: minotauro_28
+    21300058: minotauro_29
+    21300060: minotauro_30
+    21300062: minotauro_31
+    21300064: minotauro_32
+    21300066: minotauro_33
+    21300068: minotauro_34
+    21300070: minotauro_35
+    21300072: minotauro_36
+    21300074: minotauro_37
+    21300076: minotauro_38
+    21300078: minotauro_39
+    21300080: minotauro_40
+    21300082: minotauro_41
+    21300084: minotauro_42
+    21300086: minotauro_43
+    21300088: minotauro_44
+    21300090: minotauro_45
+    21300092: minotauro_46
+    21300094: minotauro_47
+    21300096: minotauro_48
+    21300098: minotauro_49
+    21300100: minotauro_50
+    21300102: minotauro_51
+    21300104: minotauro_52
+    21300106: minotauro_53
+    21300108: minotauro_54
+    21300110: minotauro_55
+    21300112: minotauro_56
+    21300114: minotauro_57
+    21300116: minotauro_58
+    21300118: minotauro_59
+    21300120: minotauro_60
+    21300122: minotauro_61
+    21300124: minotauro_62
+    21300126: minotauro_63
+    21300128: minotauro_64
+    21300130: minotauro_65
+    21300132: minotauro_66
+    21300134: minotauro_67
+    21300136: minotauro_68
+    21300138: minotauro_69
+    21300140: minotauro_70
+    21300142: minotauro_71
+    21300144: minotauro_72
+    21300146: minotauro_73
+    21300148: minotauro_74
+    21300150: minotauro_75
+    21300152: minotauro_76
+    21300154: minotauro_77
+    21300156: minotauro_78
+    21300158: minotauro_79
+    21300160: minotauro_80
+    21300162: minotauro_81
+    21300164: minotauro_82
+    21300166: minotauro_83
+    21300168: minotauro_84
+    21300170: minotauro_85
+    21300172: minotauro_86
+    21300174: minotauro_87
+    21300176: minotauro_88
+    21300178: minotauro_89
+    21300180: minotauro_90
+    21300182: minotauro_91
+    21300184: minotauro_92
+    21300186: minotauro_93
+    21300188: minotauro_94
+    21300190: minotauro_95
+    21300192: minotauro_96
+    21300194: minotauro_97
+    21300196: minotauro_98
+    21300198: minotauro_99
+    21300200: minotauro_100
+    21300202: minotauro_101
+    21300204: minotauro_102
+    21300206: minotauro_103
+    21300208: minotauro_104
+    21300210: minotauro_105
+    21300212: minotauro_106
+    21300214: minotauro_107
+    21300216: minotauro_108
+    21300218: minotauro_109
+    21300220: minotauro_110
+    21300222: minotauro_111
+    21300224: minotauro_112
+    21300226: minotauro_113
+    21300228: minotauro_114
+    21300230: minotauro_115
+    21300232: minotauro_116
+    21300234: minotauro_117
+    21300236: minotauro_118
+    21300238: minotauro_119
+    21300240: minotauro_120
+    21300242: minotauro_121
+    21300244: minotauro_122
+    21300246: minotauro_123
+    21300248: minotauro_124
+    21300250: minotauro_125
+    21300252: minotauro_126
+    21300254: minotauro_127
+    21300256: minotauro_128
+    21300258: minotauro_129
+    21300260: minotauro_130
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: minotauro_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 530
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 530
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 530
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_3
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 483
+        width: 39
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_4
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 483
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_5
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 483
+        width: 39
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_6
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 483
+        width: 39
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_7
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 483
+        width: 39
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 487
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_9
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 487
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_10
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 487
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 389
+        width: 39
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_12
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 389
+        width: 42
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_13
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 388
+        width: 42
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_14
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 388
+        width: 38
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_15
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 388
+        width: 40
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_16
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 389
+        width: 41
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_17
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 388
+        width: 40
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 324
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_19
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 324
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_20
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 293
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_21
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 292
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_22
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 286
+        width: 46
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_23
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 292
+        width: 63
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_24
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 357
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_25
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 357
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_26
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 357
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_27
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 357
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_28
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 357
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_29
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 357
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_30
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 357
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_31
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 341
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_32
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 338
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_33
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 341
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_34
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 341
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_35
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 341
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_36
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 341
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_37
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 341
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_38
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 341
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_39
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 341
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_40
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 338
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_41
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 341
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_42
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 341
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_43
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 341
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_44
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 341
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_45
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 341
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_46
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 341
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_47
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 341
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_48
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 341
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_49
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 341
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_50
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 325
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_51
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 325
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_52
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 325
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_53
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 325
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_54
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 325
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_55
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 325
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_56
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 325
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_57
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 325
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_58
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 322
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_59
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 325
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_60
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 325
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_61
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 325
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_62
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 323
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_63
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 325
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_64
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 325
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_65
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 101
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_66
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 198
+        width: 71
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_67
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 196
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_68
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 191
+        width: 46
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_69
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 197
+        width: 63
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_70
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 197
+        width: 46
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_71
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 197
+        width: 36
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_72
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 154
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_73
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 157
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_74
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 157
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_75
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 157
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 154
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_77
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 154
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_78
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 157
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_79
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 108
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_80
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 91
+        width: 57
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_81
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 96
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_82
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 108
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_83
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 139
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 139
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_85
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 139
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_86
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 139
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_87
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 139
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_88
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 139
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_89
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 139
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_90
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 139
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_91
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 139
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_92
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 139
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_93
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 139
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_94
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 139
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_95
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 123
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_96
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 123
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_97
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 123
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_98
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 123
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_99
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 123
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_100
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 120
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_101
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 121
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_102
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 123
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_103
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 123
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_104
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 123
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_105
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 120
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_106
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 123
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_107
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 123
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_108
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 123
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_109
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 123
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_110
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 107
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_111
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 107
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_112
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 107
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_113
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 107
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_114
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 107
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_115
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 107
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_116
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 107
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_117
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 104
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_118
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 107
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_119
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 107
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_120
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 107
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_121
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 107
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_122
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 104
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_123
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 9
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_124
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 9
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_125
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 9
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_126
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 9
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_127
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 5
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_128
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 3
+        width: 39
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_129
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 3
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minotauro_130
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 3
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

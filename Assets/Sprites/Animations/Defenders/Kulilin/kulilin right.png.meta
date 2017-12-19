@@ -1,0 +1,542 @@
+fileFormatVersion: 2
+guid: f937ac415b91ab344b1cdfaa636f96a4
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kulilin_0
+    21300002: kulilin_1
+    21300004: kulilin_2
+    21300006: kulilin_3
+    21300008: kulilin_4
+    21300010: kulilin_5
+    21300012: kulilin_6
+    21300014: kulilin_7
+    21300016: kulilin_8
+    21300018: kulilin_9
+    21300020: kulilin_10
+    21300022: kulilin_11
+    21300024: kulilin_12
+    21300026: kulilin_13
+    21300028: kulilin_14
+    21300030: kulilin_15
+    21300032: kulilin_16
+    21300034: kulilin_17
+    21300036: kulilin_18
+    21300038: kulilin_19
+    21300040: kulilin_20
+    21300042: kulilin_21
+    21300044: kulilin_22
+    21300046: kulilin_23
+    21300048: kulilin_24
+    21300050: kulilin_25
+    21300052: kulilin_26
+    21300054: kulilin_27
+    21300056: kulilin_28
+    21300058: kulilin_29
+    21300060: kulilin_30
+    21300062: kulilin_31
+    21300064: kulilin_32
+    21300066: kulilin_33
+    21300068: kulilin_34
+    21300070: kulilin_35
+    21300072: kulilin_36
+    21300074: kulilin_37
+    21300076: kulilin_38
+    21300078: kulilin_39
+    21300080: kulilin_40
+    21300082: kulilin_41
+    21300084: kulilin_42
+    21300086: kulilin_43
+    21300088: kulilin_44
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: kulilin_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 367
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 367
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 367
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 367
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_4
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 367
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 367
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_6
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 367
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_7
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 367
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_8
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 367
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_9
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 367
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 251
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_12
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 251
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_13
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 251
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_14
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 251
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 251
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_16
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 251
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_17
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 251
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_18
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 251
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_19
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 251
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 181
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 181
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 181
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_23
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 181
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_24
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 181
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_25
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 181
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_26
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 181
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_27
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 181
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_28
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 181
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_29
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 181
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_30
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 181
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_32
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 65
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_33
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 65
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_34
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 65
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_35
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 65
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_36
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 65
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_37
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 65
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_38
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 65
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_39
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 65
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_40
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 65
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_41
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_42
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_43
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulilin_44
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 5
+        width: 110
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

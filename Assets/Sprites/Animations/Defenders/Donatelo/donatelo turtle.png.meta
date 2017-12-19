@@ -1,0 +1,916 @@
+fileFormatVersion: 2
+guid: 10d4ffc31ee421b4db51438aa6493a49
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: donatelo turtle_0
+    21300002: donatelo turtle_1
+    21300004: donatelo turtle_2
+    21300006: donatelo turtle_3
+    21300008: donatelo turtle_4
+    21300010: donatelo turtle_5
+    21300012: donatelo turtle_6
+    21300014: donatelo turtle_7
+    21300016: donatelo turtle_8
+    21300018: donatelo turtle_9
+    21300020: donatelo turtle_10
+    21300022: donatelo turtle_11
+    21300024: donatelo turtle_12
+    21300026: donatelo turtle_13
+    21300028: donatelo turtle_14
+    21300030: donatelo turtle_15
+    21300032: donatelo turtle_16
+    21300034: donatelo turtle_17
+    21300036: donatelo turtle_18
+    21300038: donatelo turtle_19
+    21300040: donatelo turtle_20
+    21300042: donatelo turtle_21
+    21300044: donatelo turtle_22
+    21300046: donatelo turtle_23
+    21300048: donatelo turtle_24
+    21300050: donatelo turtle_25
+    21300052: donatelo turtle_26
+    21300054: donatelo turtle_27
+    21300056: donatelo turtle_28
+    21300058: donatelo turtle_29
+    21300060: donatelo turtle_30
+    21300062: donatelo turtle_31
+    21300064: donatelo turtle_32
+    21300066: donatelo turtle_33
+    21300068: donatelo turtle_34
+    21300070: donatelo turtle_35
+    21300072: donatelo turtle_36
+    21300074: donatelo turtle_37
+    21300076: donatelo turtle_38
+    21300078: donatelo turtle_39
+    21300080: donatelo turtle_40
+    21300082: donatelo turtle_41
+    21300084: donatelo turtle_42
+    21300086: donatelo turtle_43
+    21300088: donatelo turtle_44
+    21300090: donatelo turtle_45
+    21300092: donatelo turtle_46
+    21300094: donatelo turtle_47
+    21300096: donatelo turtle_48
+    21300098: donatelo turtle_49
+    21300100: donatelo turtle_50
+    21300102: donatelo turtle_51
+    21300104: donatelo turtle_53
+    21300106: donatelo turtle_54
+    21300108: donatelo turtle_55
+    21300110: donatelo turtle_56
+    21300112: donatelo turtle_57
+    21300114: donatelo turtle_58
+    21300116: donatelo turtle_59
+    21300118: donatelo turtle_60
+    21300120: donatelo turtle_61
+    21300122: donatelo turtle_62
+    21300124: donatelo turtle_63
+    21300126: donatelo turtle_65
+    21300128: donatelo turtle_66
+    21300130: donatelo turtle_67
+    21300132: donatelo turtle_68
+    21300134: donatelo turtle_69
+    21300136: donatelo turtle_70
+    21300138: donatelo turtle_71
+    21300140: donatelo turtle_72
+    21300142: donatelo turtle_73
+    21300144: donatelo turtle_74
+    21300146: donatelo turtle_75
+    21300148: donatelo turtle_76
+    21300150: donatelo turtle_77
+    21300152: donatelo turtle_78
+    21300154: donatelo turtle_79
+    21300156: donatelo turtle_52
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: donatelo turtle_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1542
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1541
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1524
+        width: 65
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1419
+        width: 51
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1419
+        width: 45
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1418
+        width: 52
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_6
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1419
+        width: 53
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1415
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_8
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1413
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_9
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1412
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_10
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1417
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1320
+        width: 50
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1319
+        width: 50
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1319
+        width: 50
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_14
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1321
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_15
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1319
+        width: 65
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1218
+        width: 49
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1217
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_18
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1217
+        width: 50
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_19
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1217
+        width: 51
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_20
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1217
+        width: 50
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_21
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1217
+        width: 50
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1105
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_23
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1101
+        width: 49
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_24
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1106
+        width: 56
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_25
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1127
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_26
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1127
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_27
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1012
+        width: 67
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_28
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1019
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_29
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1023
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_30
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1024
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_31
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1026
+        width: 131
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 933
+        width: 123
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_33
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 920
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 920
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_35
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 915
+        width: 92
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 821
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_37
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 824
+        width: 69
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_38
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 824
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_39
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 842
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_40
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 842
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_41
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 742
+        width: 70
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_42
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 743
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_43
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 744
+        width: 82
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_44
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 742
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_45
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 743
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_46
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 669
+        width: 88
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_47
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 670
+        width: 109
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_48
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 670
+        width: 109
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_49
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 670
+        width: 109
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 605
+        width: 112
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_51
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 606
+        width: 112
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_53
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 608
+        width: 102
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_54
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 608
+        width: 95
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 545
+        width: 95
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_56
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 460
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_57
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 458
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_58
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 462
+        width: 92
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_59
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 464
+        width: 104
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_60
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 463
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_61
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 358
+        width: 58
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_62
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 363
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_63
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 388
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_65
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 368
+        width: 58
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_66
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 365
+        width: 53
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_67
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 367
+        width: 70
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_68
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 284
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_69
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 289
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_70
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 209
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_71
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 205
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_72
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 219
+        width: 80
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_73
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 202
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_74
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 206
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_75
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 216
+        width: 83
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_76
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 108
+        width: 53
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_77
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 114
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_78
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 130
+        width: 88
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 124
+        width: 96
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: donatelo turtle_52
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 368
+        width: 76
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

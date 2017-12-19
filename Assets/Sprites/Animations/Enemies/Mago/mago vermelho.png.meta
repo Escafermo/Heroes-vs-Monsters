@@ -1,0 +1,1631 @@
+fileFormatVersion: 2
+guid: 781c8ee39cfea3e4aaa114f8f7a67009
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mago vermelho_0
+    21300002: mago vermelho_1
+    21300004: mago vermelho_2
+    21300006: mago vermelho_3
+    21300008: mago vermelho_4
+    21300010: mago vermelho_5
+    21300012: mago vermelho_6
+    21300014: mago vermelho_7
+    21300016: mago vermelho_8
+    21300018: mago vermelho_10
+    21300020: mago vermelho_12
+    21300022: mago vermelho_13
+    21300024: mago vermelho_14
+    21300026: mago vermelho_15
+    21300028: mago vermelho_16
+    21300030: mago vermelho_17
+    21300032: mago vermelho_18
+    21300034: mago vermelho_19
+    21300036: mago vermelho_20
+    21300038: mago vermelho_21
+    21300040: mago vermelho_22
+    21300042: mago vermelho_23
+    21300044: mago vermelho_24
+    21300046: mago vermelho_25
+    21300048: mago vermelho_26
+    21300050: mago vermelho_27
+    21300052: mago vermelho_29
+    21300054: mago vermelho_32
+    21300056: mago vermelho_33
+    21300058: mago vermelho_34
+    21300060: mago vermelho_35
+    21300062: mago vermelho_36
+    21300064: mago vermelho_37
+    21300066: mago vermelho_38
+    21300068: mago vermelho_39
+    21300070: mago vermelho_40
+    21300072: mago vermelho_41
+    21300074: mago vermelho_42
+    21300076: mago vermelho_43
+    21300078: mago vermelho_44
+    21300080: mago vermelho_45
+    21300082: mago vermelho_46
+    21300084: mago vermelho_47
+    21300086: mago vermelho_48
+    21300088: mago vermelho_49
+    21300090: mago vermelho_50
+    21300092: mago vermelho_51
+    21300094: mago vermelho_52
+    21300096: mago vermelho_53
+    21300098: mago vermelho_54
+    21300100: mago vermelho_55
+    21300102: mago vermelho_56
+    21300104: mago vermelho_57
+    21300106: mago vermelho_58
+    21300108: mago vermelho_59
+    21300110: mago vermelho_60
+    21300112: mago vermelho_61
+    21300114: mago vermelho_62
+    21300116: mago vermelho_63
+    21300118: mago vermelho_64
+    21300120: mago vermelho_65
+    21300122: mago vermelho_66
+    21300124: mago vermelho_67
+    21300126: mago vermelho_68
+    21300128: mago vermelho_69
+    21300130: mago vermelho_70
+    21300132: mago vermelho_71
+    21300134: mago vermelho_72
+    21300136: mago vermelho_73
+    21300138: mago vermelho_74
+    21300140: mago vermelho_75
+    21300142: mago vermelho_76
+    21300144: mago vermelho_77
+    21300146: mago vermelho_78
+    21300148: mago vermelho_79
+    21300150: mago vermelho_81
+    21300152: mago vermelho_83
+    21300154: mago vermelho_85
+    21300156: mago vermelho_86
+    21300158: mago vermelho_87
+    21300160: mago vermelho_88
+    21300162: mago vermelho_89
+    21300164: mago vermelho_90
+    21300166: mago vermelho_91
+    21300168: mago vermelho_92
+    21300170: mago vermelho_93
+    21300172: mago vermelho_94
+    21300174: mago vermelho_95
+    21300176: mago vermelho_96
+    21300178: mago vermelho_97
+    21300180: mago vermelho_98
+    21300182: mago vermelho_99
+    21300184: mago vermelho_100
+    21300186: mago vermelho_101
+    21300188: mago vermelho_102
+    21300190: mago vermelho_103
+    21300192: mago vermelho_104
+    21300194: mago vermelho_105
+    21300196: mago vermelho_106
+    21300198: mago vermelho_107
+    21300200: mago vermelho_108
+    21300202: mago vermelho_109
+    21300204: mago vermelho_110
+    21300206: mago vermelho_111
+    21300208: mago vermelho_112
+    21300210: mago vermelho_113
+    21300212: mago vermelho_114
+    21300214: mago vermelho_115
+    21300216: mago vermelho_116
+    21300218: mago vermelho_117
+    21300220: mago vermelho_118
+    21300222: mago vermelho_119
+    21300224: mago vermelho_120
+    21300226: mago vermelho_121
+    21300228: mago vermelho_122
+    21300230: mago vermelho_123
+    21300232: mago vermelho_124
+    21300234: mago vermelho_125
+    21300236: mago vermelho_126
+    21300238: mago vermelho_127
+    21300240: mago vermelho_128
+    21300242: mago vermelho_129
+    21300244: mago vermelho_130
+    21300246: mago vermelho_131
+    21300248: mago vermelho_132
+    21300250: mago vermelho_133
+    21300252: mago vermelho_134
+    21300254: mago vermelho_135
+    21300256: mago vermelho_136
+    21300258: mago vermelho_137
+    21300260: mago vermelho_138
+    21300262: mago vermelho_139
+    21300264: mago vermelho_140
+    21300266: mago vermelho_141
+    21300268: mago vermelho_142
+    21300270: mago vermelho_143
+    21300272: mago vermelho_146
+    21300274: mago vermelho_147
+    21300276: mago vermelho_148
+    21300278: mago vermelho_149
+    21300280: mago vermelho_150
+    21300282: mago vermelho_151
+    21300284: mago vermelho_152
+    21300286: mago vermelho_153
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mago vermelho_0
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 654
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_1
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 654
+        width: 40
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_2
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 654
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_3
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 654
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_4
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 654
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_5
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 654
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_6
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 654
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_7
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 544
+        width: 47
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_8
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 543
+        width: 64
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 541
+        width: 61
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_12
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 541
+        width: 58
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_13
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 541
+        width: 53
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 547
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 547
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_16
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 541
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_17
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 541
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_18
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 541
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_19
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 425
+        width: 51
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_20
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 431
+        width: 48
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_21
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 438
+        width: 43
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_22
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 442
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_23
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 442
+        width: 53
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_24
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 442
+        width: 45
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_25
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 442
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_26
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 442
+        width: 62
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_27
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 442
+        width: 42
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_29
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 316
+        width: 64
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_32
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 316
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_33
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 380
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_34
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 380
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_35
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 380
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_36
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 380
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_37
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 390
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_38
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 387
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_39
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 390
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_40
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 390
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_41
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 316
+        width: 67
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_42
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 370
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_43
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 367
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_44
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 370
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_45
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 370
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_46
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 370
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_47
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 370
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_48
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 370
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_49
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 370
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_50
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 370
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_51
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 367
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_52
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 370
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_53
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 370
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_54
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 370
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_55
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 370
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_56
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 370
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_57
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 370
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_58
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 370
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_59
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 370
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_60
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 370
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_61
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 354
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 354
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_63
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 354
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_64
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 354
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_65
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 354
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_66
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 354
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_67
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 354
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_68
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 354
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_69
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 351
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_70
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 354
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_71
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 354
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_72
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 354
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_73
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 352
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_74
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 354
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_75
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 354
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_76
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 334
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_77
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 334
+        width: 59
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_78
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 334
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_79
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 334
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_81
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 217
+        width: 84
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_83
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 216
+        width: 92
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_85
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 217
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_86
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 217
+        width: 50
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_87
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 217
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_88
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 217
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_89
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 217
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_90
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 112
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_91
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 165
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_92
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 168
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_93
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 168
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_94
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 168
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_95
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 165
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_96
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 165
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_97
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 168
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_98
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 105
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_99
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 99
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_100
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 108
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_101
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 109
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_102
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 110
+        width: 54
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_103
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 113
+        width: 49
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_104
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 150
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_105
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 150
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_106
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 150
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_107
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 150
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_108
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 150
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_109
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 150
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_110
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 150
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_111
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 150
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_112
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 150
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_113
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 150
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_114
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 150
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_115
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 150
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_116
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 134
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_117
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 134
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_118
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 134
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_119
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 134
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_120
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 134
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_121
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 131
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_122
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 132
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_123
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 134
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_124
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 134
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_125
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 134
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_126
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 131
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_127
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 134
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_128
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 134
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_129
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 134
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_130
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 134
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_131
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 118
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_132
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 118
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_133
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 118
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_134
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 118
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_135
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 118
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_136
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 118
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_137
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 118
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_138
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 115
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_139
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 118
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_140
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 118
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_141
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 118
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_142
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 118
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_143
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 115
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_146
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 4
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_147
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 4
+        width: 45
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_148
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 4
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_149
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 4
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_150
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 4
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_151
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 4
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_152
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 4
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mago vermelho_153
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 4
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

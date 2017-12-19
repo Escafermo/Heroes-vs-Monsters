@@ -1,0 +1,1587 @@
+fileFormatVersion: 2
+guid: c9a523dae18126b44bed0814fca28467
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ciclops_0
+    21300002: ciclops_1
+    21300004: ciclops_2
+    21300006: ciclops_3
+    21300008: ciclops_4
+    21300010: ciclops_5
+    21300012: ciclops_6
+    21300014: ciclops_7
+    21300016: ciclops_8
+    21300018: ciclops_9
+    21300020: ciclops_11
+    21300022: ciclops_12
+    21300024: ciclops_13
+    21300026: ciclops_14
+    21300028: ciclops_15
+    21300030: ciclops_16
+    21300032: ciclops_17
+    21300034: ciclops_18
+    21300036: ciclops_19
+    21300038: ciclops_20
+    21300040: ciclops_21
+    21300042: ciclops_22
+    21300044: ciclops_23
+    21300046: ciclops_24
+    21300048: ciclops_25
+    21300050: ciclops_26
+    21300052: ciclops_27
+    21300054: ciclops_28
+    21300056: ciclops_29
+    21300058: ciclops_30
+    21300060: ciclops_31
+    21300062: ciclops_32
+    21300064: ciclops_33
+    21300066: ciclops_34
+    21300068: ciclops_35
+    21300070: ciclops_36
+    21300072: ciclops_37
+    21300074: ciclops_38
+    21300076: ciclops_39
+    21300078: ciclops_40
+    21300080: ciclops_41
+    21300082: ciclops_42
+    21300084: ciclops_43
+    21300086: ciclops_44
+    21300088: ciclops_45
+    21300090: ciclops_46
+    21300092: ciclops_47
+    21300094: ciclops_48
+    21300096: ciclops_49
+    21300098: ciclops_50
+    21300100: ciclops_51
+    21300102: ciclops_52
+    21300104: ciclops_53
+    21300106: ciclops_54
+    21300108: ciclops_55
+    21300110: ciclops_56
+    21300112: ciclops_57
+    21300114: ciclops_58
+    21300116: ciclops_59
+    21300118: ciclops_60
+    21300120: ciclops_61
+    21300122: ciclops_62
+    21300124: ciclops_63
+    21300126: ciclops_64
+    21300128: ciclops_65
+    21300130: ciclops_66
+    21300132: ciclops_67
+    21300134: ciclops_68
+    21300136: ciclops_69
+    21300138: ciclops_70
+    21300140: ciclops_71
+    21300142: ciclops_72
+    21300144: ciclops_73
+    21300146: ciclops_74
+    21300148: ciclops_75
+    21300150: ciclops_76
+    21300152: ciclops_77
+    21300154: ciclops_78
+    21300156: ciclops_79
+    21300158: ciclops_80
+    21300160: ciclops_81
+    21300162: ciclops_82
+    21300164: ciclops_83
+    21300166: ciclops_84
+    21300168: ciclops_85
+    21300170: ciclops_86
+    21300172: ciclops_87
+    21300174: ciclops_88
+    21300176: ciclops_89
+    21300178: ciclops_90
+    21300180: ciclops_91
+    21300182: ciclops_92
+    21300184: ciclops_93
+    21300186: ciclops_94
+    21300188: ciclops_95
+    21300190: ciclops_96
+    21300192: ciclops_97
+    21300194: ciclops_98
+    21300196: ciclops_99
+    21300198: ciclops_100
+    21300200: ciclops_101
+    21300202: ciclops_102
+    21300204: ciclops_103
+    21300206: ciclops_104
+    21300208: ciclops_105
+    21300210: ciclops_106
+    21300212: ciclops_107
+    21300214: ciclops_108
+    21300216: ciclops_109
+    21300218: ciclops_110
+    21300220: ciclops_111
+    21300222: ciclops_112
+    21300224: ciclops_113
+    21300226: ciclops_120
+    21300228: ciclops_137
+    21300230: ciclops_152
+    21300232: ciclops_168
+    21300234: ciclops_171
+    21300236: ciclops_172
+    21300238: ciclops_173
+    21300240: ciclops_174
+    21300242: ciclops_183
+    21300244: ciclops_184
+    21300246: ciclops_185
+    21300248: ciclops_186
+    21300250: ciclops_187
+    21300252: ciclops_188
+    21300254: ciclops_189
+    21300256: ciclops_190
+    21300258: ciclops_191
+    21300260: ciclops_192
+    21300262: ciclops_193
+    21300264: ciclops_10
+    21300266: ciclops_119
+    21300268: ciclops_131
+    21300270: ciclops_132
+    21300272: ciclops_128
+    21300274: ciclops_125
+    21300276: ciclops_117
+    21300278: ciclops_114
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ciclops_0
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 591
+        width: 39
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_1
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 591
+        width: 39
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_2
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 591
+        width: 39
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_3
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 591
+        width: 38
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_4
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 591
+        width: 38
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_5
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 591
+        width: 38
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_6
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 591
+        width: 39
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_7
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 591
+        width: 39
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_8
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 591
+        width: 38
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_9
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 591
+        width: 38
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_11
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 505
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_12
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 467
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_13
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 508
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 508
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_15
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 505
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 505
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_17
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 508
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_18
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 512
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_19
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 509
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_20
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 512
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_21
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 512
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_22
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 509
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_23
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 512
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_24
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 457
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_25
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 457
+        width: 45
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_26
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 457
+        width: 33
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_27
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 457
+        width: 37
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_28
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 458
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_29
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 457
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_30
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 490
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_31
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 490
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_32
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 490
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_33
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 490
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_34
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 490
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_35
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 490
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_36
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 490
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_37
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 490
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_38
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 490
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_39
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 490
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_40
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 490
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_41
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 490
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_42
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 490
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_43
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 493
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_44
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 493
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_45
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 493
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_46
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 490
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_47
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 477
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_48
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 493
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_49
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 490
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_50
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 493
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_51
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 493
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_52
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 493
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_53
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 493
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_54
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 493
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_55
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 493
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_56
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 493
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_57
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 490
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_58
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 493
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_59
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 493
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_60
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 493
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_61
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 493
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_62
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 493
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_63
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 493
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_64
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 493
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_65
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 493
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_66
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 493
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_67
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 474
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_68
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 474
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_69
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 474
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_70
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 474
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_71
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 474
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_72
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 471
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_73
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 472
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_74
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 474
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_75
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 474
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_76
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 474
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_77
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 471
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_78
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 474
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_79
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 474
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_80
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 474
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_81
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 474
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_82
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 477
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_83
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 477
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_84
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 477
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_85
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 475
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_86
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 477
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_87
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 477
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_88
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 477
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_89
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 477
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_90
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 477
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_91
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 477
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_92
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 477
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_93
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 477
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_94
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 474
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_95
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 477
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_96
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 477
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_97
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 477
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_98
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 475
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_99
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 477
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_100
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 477
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_101
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 458
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_102
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 458
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_103
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 458
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_104
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 458
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_105
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 458
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_106
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 458
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_107
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 458
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_108
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 455
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_109
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 458
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_110
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 458
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_111
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 458
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_112
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 458
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_113
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 455
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_120
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 331
+        width: 51
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_137
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 291
+        width: 51
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_152
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 278
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_168
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 141
+        width: 51
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_171
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 136
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_172
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 136
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_173
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 136
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_174
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 136
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_183
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 71
+        width: 59
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_184
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 71
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_185
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 71
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_186
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 71
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_187
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 8
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_188
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 9
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_189
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 9
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_190
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 9
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_191
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 15
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_192
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 15
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_193
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 9
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_10
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 141
+        width: 126
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_119
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 141
+        width: 127
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_131
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 141
+        width: 85
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_132
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 141
+        width: 83
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_128
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 291
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_125
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 291
+        width: 82
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_117
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 291
+        width: 100
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ciclops_114
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 291
+        width: 100
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
